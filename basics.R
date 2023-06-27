@@ -1,0 +1,13 @@
+7
+7+3
+7-3
+x<-2
+y<-3
+z<-x+y
+z
+class(2.5)
+class(9)
+class("hello")
+class(TRUE)
+x>y
+x<y
