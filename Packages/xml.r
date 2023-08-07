@@ -1,0 +1,5 @@
+install.packages("XML")
+library(XML)
+library(methods)
+result<-xmlParse(file ="C:/Users/adity/Desktop/xmlfile.xml")
+print(result)
